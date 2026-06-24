@@ -1,4 +1,4 @@
-let goal = 2000;
+<let goal = 2000;
 let current = localStorage.getItem("water") || 0;
 
 updateUI();
